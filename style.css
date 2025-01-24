@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(31, 29, 29);
+    width: auto;
+    height: auto;
+  }
+
+  .item_1 {
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    border-style: solid;
+    text-align: center;
+    background-color: purple;
+    padding-top: 100px;
+  }
+
+  .item_2 {
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    border-style: solid;
+    text-align: center;
+    background-color: purple;
+  }
+
+  img{
+    width: 300px;
+    height: auto;
+  }
+
+ 
